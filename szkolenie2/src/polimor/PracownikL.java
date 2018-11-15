@@ -103,7 +103,7 @@ public class PracownikL implements Comparable<PracownikL> {
 	}
 
 	@Override
-	public int compareTo(PracownikL o) {
+	public int compareTo(PracownikL o) {//BLA
 		// TODO Auto-generated method stub
 
 		return Double.compare(o.salary, this.salary);
