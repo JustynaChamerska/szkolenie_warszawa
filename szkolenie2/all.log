@@ -1,0 +1,5 @@
+2018-11-16 14:00:39.234 [main] DEBUG dzien4.Logowanie2 - Wynik operacji to: 3, prawda ¿e jest to ciekawe
+2018-11-16 14:00:39.255 [main] ERROR dzien4.Logowanie2 - Masz pecha
+java.io.IOException: Masz pecha
+	at dzien4.Logowanie2.getName(Logowanie2.java:34) ~[bin/:?]
+	at dzien4.Logowanie2.main(Logowanie2.java:22) [bin/:?]
